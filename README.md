@@ -15,11 +15,13 @@ Total Profit: 21,575
 Profit calculated using DAX measures
 
 
+
 Quantity Insights
 
 Total Orders: 100
 
 Maximum Quantity: 100.50
+
 
  
 DAX-Based Calculations
@@ -28,12 +30,14 @@ Custom measures using SUM, MAX, COUNT
 
 Quick Measures for dynamic insights
 
+
  
 Product-Level Analysis
 
 Profit by Quantity per product
 
 Top-performing products (e.g., Dhokla, Jalebi)
+
 
  
 Customer/Name Analysis
